@@ -22,8 +22,8 @@ title: 호성의 블로그
 email: shs861125@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
   좋아하는 여러가지를 기록하는 블로그입니다
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/jekyll_blog" # the subpath of your site, e.g. /blog
+url: "https://hoseong21.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: not exist
 github_username:  Hoseong21
 
